@@ -1,5 +1,5 @@
 #### Ahmed Yasser Arafat
 
-### Noor Jahan--------
+### Noor Jahan-
 
 ### Abdullah Farooq
