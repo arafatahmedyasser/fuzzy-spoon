@@ -5,3 +5,10 @@
 ### Abdullah Faruk
 
 DNFF
+
+
+  d
+  qrf
+  wq
+  rfwq
+  r
