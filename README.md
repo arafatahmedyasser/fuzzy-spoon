@@ -1,1 +1,1 @@
-#### Ahmed Yasser Arafat
+#### Ahmed Arafat
