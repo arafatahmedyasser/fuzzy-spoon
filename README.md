@@ -1,14 +1,5 @@
 #### Ahmed Yasser Arafat
 
-### Noor
+### Noor Jahan
 
-### Abdullah Faruk
-
-DNFF
-
-
-  d
-  qrf
-  wq
-  rfwq
-  r
+### Abdullah Farooq
