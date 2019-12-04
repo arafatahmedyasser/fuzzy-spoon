@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<style type="text/css">
+					html, body {
+					margin: 0px;
+					padding: 0px;
+					border: 0px;
+					}
+					#container {
+					width: 870px;
+					margin: 0 auto; /* top right bottom left */
+					padding: 0;
+					background-color: #d3d3d3;
+					}
+					
+					#innercontainer{
+					display:flex;
+					width:inherit;
+					}
+					
+					.col{
+					    flex: 1;
+    margin: 5px;
+    border: 1px solid red;
+					
+					}
+					p:not(.ls) {
+					
+					text-align: justify; /* For Edge */
+    -moz-text-align-last: justify; /* For Firefox prior 58.0 */
+    text-align-last: justify;
+	}
+					
+</style>
+</head>
+<body>
+<div id="container">
+<h1>My Header Row</h1>
+<div id="innercontainer">
+<div class="col1 col">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!</p>
+<p>Ad dolore dignissimos asperiores dicta facere optio quod commodi nam tempore recusandae. Rerum sed nulla eum vero expedita ex delectus voluptates rem at neque quos facere sequi unde optio aliquam!</p>
+</div>
+<div class="col2 col">
+<p>Tenetur quod quidem in voluptatem corporis dolorum dicta sit pariatur porro quaerat autem ipsam odit quam beatae tempora quibusdam illum! Modi velit odio nam nulla unde amet odit pariatur at!</p>
+</div>
+
+<div id="col2outer col">
+<div id="col2mid">
+<p>Ut enim ad minim veniam.</p>
+</div>
+<div id="col2side">
+<p>Nam libero tempore.</p>
+</div>
+</div></div>
+<div id="footer">
+<p class="ls">Copyright © 2008 </p>
+</div>
+</div>
+</body>
+</html>
