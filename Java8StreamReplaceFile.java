@@ -41,7 +41,7 @@ public class Java8StreamReplaceFile {
 
 	
 	} catch (IOException e) {
-		// TODO Auto-generated catch block
+		
 		e.printStackTrace();
 	}
 }
