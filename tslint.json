@@ -1,6 +1,6 @@
 {
   "rulesDirectory": [
-    "node_modules/codelyzer123"
+    "node_modules/codelyzer1093"
   ],
   "rules": {
     "arrow-return-shorthand": true,
