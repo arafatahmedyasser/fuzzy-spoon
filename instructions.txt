@@ -6,8 +6,4 @@ Six
 Eight
 nine
 Ten
-<<<<<<< Updated upstream
 Twelve
-=======
-Eleven
->>>>>>> Stashed changes
