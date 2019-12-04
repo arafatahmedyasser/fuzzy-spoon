@@ -32,26 +32,16 @@ public class Java8StreamReplaceFile {
 						Files.write(koi, kk.get().getBytes(), StandardOpenOption.SPARSE);
 						System.out.println(kk.get());
 					}
-					 catch (IOException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
 					return koi;
 					
 					});
 		
 		kk1.forEach(System.out::println);
 		
-/*	Optional<String> kk= ss.filter(line->line.contains("import")).findFirst().map(line->
-	new StringBuilder().append("package com.cts.java8;\n\n"
-			+ "").append(line).append("\n").append("\n")
-	.toString());
-	
-	Files.write(path, kk.get().getBytes(), StandardOpenOption.SPARSE);
-	System.out.println(kk.get());*/
+
 	
 	} catch (IOException e) {
-		// TODO Auto-generated catch block
+		
 		e.printStackTrace();
 	}
 }
