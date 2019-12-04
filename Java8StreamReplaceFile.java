@@ -32,10 +32,6 @@ public class Java8StreamReplaceFile {
 						Files.write(koi, kk.get().getBytes(), StandardOpenOption.SPARSE);
 						System.out.println(kk.get());
 					}
-					 catch (IOException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
 					return koi;
 					
 					});
